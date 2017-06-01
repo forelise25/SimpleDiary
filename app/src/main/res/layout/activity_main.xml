@@ -24,10 +24,12 @@
         />
     <Button
         android:id="@+id/but"
+        android:textColor="#ffffff"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:gravity="right"
-        android:text="but1"
+        android:gravity="center_horizontal"
+        android:text="Button"
+        android:background="@color/colorAccent"
         android:enabled="false"
         />
 </LinearLayout>
